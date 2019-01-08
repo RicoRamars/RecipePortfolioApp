@@ -15,9 +15,6 @@ import android.support.annotation.Nullable;
 
 import java.io.ByteArrayOutputStream;
 
-/**
- * author hogeschool van amsterdam
- */
 
 public class RecipeProvider extends ContentProvider
 {
